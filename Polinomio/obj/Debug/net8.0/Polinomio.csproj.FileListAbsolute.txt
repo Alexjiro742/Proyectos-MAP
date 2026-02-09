@@ -1,0 +1,14 @@
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\bin\Debug\net8.0\Polinomio.exe
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\bin\Debug\net8.0\Polinomio.deps.json
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\bin\Debug\net8.0\Polinomio.runtimeconfig.json
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\bin\Debug\net8.0\Polinomio.dll
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\bin\Debug\net8.0\Polinomio.pdb
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.AssemblyInfoInputs.cache
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.AssemblyInfo.cs
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.csproj.CoreCompileInputs.cache
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.dll
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\refint\Polinomio.dll
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.pdb
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\Polinomio.genruntimeconfig.cache
+C:\Users\alexj\Desktop\UNI\Cuatrimestre 2\FP2\Polinomio\Polinomio\obj\Debug\net8.0\ref\Polinomio.dll
