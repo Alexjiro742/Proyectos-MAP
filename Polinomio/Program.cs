@@ -1,6 +1,10 @@
 ﻿namespace Polinomio
 {
+
     //HA HA HA HA OOOO HEY JESSIE HEY JESSIE
+
+    //Van dos, y me caigo, van dos y a no, van dos
+
     internal class Program
     {
         const int N = 100; // tamaño del vector de monomios
