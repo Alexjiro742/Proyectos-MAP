@@ -17,9 +17,6 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-.vs/
-Polinomio/bin/
-Polinomio/obj/
 
 
 # Mono auto generated files
