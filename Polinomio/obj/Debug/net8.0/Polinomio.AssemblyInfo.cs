@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polinomio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+671429c55da74ad7e3163ff8dd8b7748bacc1c19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e94ac4cb0f142e642560dc6407a471370acfa93")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polinomio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polinomio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
