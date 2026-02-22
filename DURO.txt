@@ -1,2 +1,6 @@
 ME GUSTA EL POLLO ASADO
+<<<<<<< HEAD
 HAY 3 días al año en los que llueven meteoritos
+=======
+SON DOS LOS DIAS DE LA SEMANA
+>>>>>>> 26200594ecb1a617014840a26e47f8eba97f0ebd
