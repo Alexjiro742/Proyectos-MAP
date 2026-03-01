@@ -3,6 +3,7 @@ ME GUSTA EL POLLO ASADO
 HAY 3 días al año en los que llueven meteoritos
 SON DOS LOS DIAS DE LA SEMANA
 
+SOY ALGUIEN QUE QUIERE HACER UN PUSH SIN PULL
 =======
 ME GUSTA EL POLLO ASADO
 >>>>>>> parent of 2620059 ( 111)
